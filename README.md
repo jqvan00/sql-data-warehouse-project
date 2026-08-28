@@ -1,5 +1,3 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL Server, including ETL Processing, data modeling, and analytics
 # SQL Data Warehouse and Analytics Project
 
 This project demonstrates the development of a modern data warehouse using SQL Server, Docker and Visual Studio Code. It follows the Medallion Architecture to transform raw CRM and ERP data into clean, structured and analytics-ready datasets.
